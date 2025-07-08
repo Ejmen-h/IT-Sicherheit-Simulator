@@ -1,0 +1,27 @@
+[
+    {
+        "url": "https://www.paypal.com/de/signin",
+        "correct_answer": "sicher",
+        "explanation": "Offizielle URL von PayPal."
+    },
+    {
+        "url": "http://paypal-verifizierung.de/login",
+        "correct_answer": "phishing",
+        "explanation": "Falsche Domain, nicht offiziell von PayPal."
+    },
+    {
+        "url": "https://intranet.firma.de/dashboard",
+        "correct_answer": "sicher",
+        "explanation": "Interne Firmen-URL."
+    },
+    {
+        "url": "http://secure-login-firma.com/update",
+        "correct_answer": "phishing",
+        "explanation": "Täuschend echt wirkende URL, aber nicht von der Firma."
+    },
+    {
+        "url": "https://accounts.google.com",
+        "correct_answer": "sicher",
+        "explanation": "Offizielle Google-Login-URL."
+    }
+]

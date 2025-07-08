@@ -1,0 +1,37 @@
+[
+    {
+        "from": "it-support@firma.de",
+        "subject": "Wichtige Sicherheitsaktualisierung",
+        "body": "Bitte klicken Sie hier, um Ihre Kontoinformationen zu bestätigen.",
+        "correct_answer": "phishing",
+        "explanation": "Links in E-Mails zur Bestätigung von Kontoinformationen sind oft Phishing."
+    },
+    {
+        "from": "hr@firma.de",
+        "subject": "Ihre Gehaltsabrechnung für Juni",
+        "body": "Im Anhang finden Sie Ihre Abrechnung für Juni. Rückfragen bitte an HR.",
+        "correct_answer": "sicher",
+        "explanation": "Legitime interne HR-E-Mail."
+    },
+    {
+        "from": "admin@secure-login.com",
+        "subject": "Ihr Konto wurde gesperrt",
+        "body": "Ihr Konto wurde aus Sicherheitsgründen gesperrt. Klicken Sie hier, um es zu entsperren.",
+        "correct_answer": "phishing",
+        "explanation": "Keine bekannte interne Adresse, dringende Sperr-Meldung ist typisch für Phishing."
+    },
+    {
+        "from": "chef@firma.de",
+        "subject": "Besprechung heute 14 Uhr",
+        "body": "Bitte nehmen Sie an der Besprechung im Konferenzraum teil.",
+        "correct_answer": "sicher",
+        "explanation": "Normale interne Besprechungsanfrage."
+    },
+    {
+        "from": "support@paypal.com",
+        "subject": "Ungewöhnliche Aktivitäten festgestellt",
+        "body": "Wir haben ungewöhnliche Aktivitäten in Ihrem Konto festgestellt. Melden Sie sich an, um zu prüfen.",
+        "correct_answer": "phishing",
+        "explanation": "Offizielle Firmen kontaktieren nicht mit Links zum Einloggen in dieser Form."
+    }
+]
